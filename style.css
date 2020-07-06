@@ -1,0 +1,60 @@
+
+
+
+
+/* --------------------------slider section------------------------------------------------ */ 
+.container{
+
+    margin-bottom: 60px;
+     
+     
+}
+.orange-bg{
+
+
+    background-color:#fbebe9;
+    border-radius:10px ;
+
+}
+
+.carousel-item{
+
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+
+
+
+}
+
+.btn{
+    background-image: linear-gradient(to bottom,#FF5898 0%,#FF136F 100%);
+    color:#FFF;
+    padding: 9px 25px;
+    border: none;
+    cursor: pointer;
+}
+/* ---------------------------Service section------------------------------------------------ */ 
+.cat1, .cat2 ,.cat3{
+
+    padding: 20px 30px;
+    color: #FFF;
+ }
+  
+
+
+.cat1{
+
+    background-color: #ffa630;
+ }
+ .cat2{
+
+    background-color: #FF136F;
+    
+ }
+ .cat3{
+
+    background-color: #4163fd;
+ }
+  
