@@ -12,7 +12,7 @@
 .orange-bg{
 
 
-    background-color:#fbebe9;
+    background-color:#feeae9;
     border-radius:10px ;
 
 }
@@ -39,9 +39,10 @@
 .cat1, .cat2 ,.cat3{
 
     padding: 20px 30px;
-    color: #FFF;
+    border-radius: 10px;
+   
  }
-  
+ 
 
 
 .cat1{
@@ -57,4 +58,32 @@
 
     background-color: #4163fd;
  }
+
+ .categories h2{
+    color: #FFF;
+}
+ .categories img{
+     width: 100px;
+
+
+ }
+
+
+
+
+ 
   
+
+ /* subscribe section*/
+ #subscribe{
+
+
+    height: 300px;
+ }
+
+
+
+ /* -----------------------Footer Section----------------------*/
+ footer{
+     text-align: center;
+ }
